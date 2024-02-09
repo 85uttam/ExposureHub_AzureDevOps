@@ -21,4 +21,10 @@ public class FirstClassTest extends BaseClass {
 	{
 		fc.getTitleOfLoginPage();
 	}
+	
+	@Test
+	public void getCurrentURL()
+	{
+		fc.getURLofAPP();
+	}
 }

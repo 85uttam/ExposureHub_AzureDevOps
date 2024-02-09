@@ -17,4 +17,9 @@ public class FirstClass {
 		String title= driver.getTitle();
 		System.out.println(title);
 	}
+	
+	public void getURLofAPP()
+	{
+		System.out.println(driver.getCurrentUrl());
+	}
 }
