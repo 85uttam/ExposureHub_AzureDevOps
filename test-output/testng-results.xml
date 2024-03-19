@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-19T04:52:35Z" name="Suite" finished-at="2024-03-19T04:52:51Z" duration-ms="16181">
+  <suite started-at="2024-03-19T12:05:06 IST" name="Suite" finished-at="2024-03-19T12:05:17 IST" duration-ms="11321">
     <groups>
     </groups>
-    <test started-at="2024-03-19T04:52:35Z" name="Test" finished-at="2024-03-19T04:52:51Z" duration-ms="16181">
+    <test started-at="2024-03-19T12:05:06 IST" name="Test" finished-at="2024-03-19T12:05:17 IST" duration-ms="11321">
       <class name="testScript.FirstClassTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testScript.FirstClassTest@6c0d7c83]" started-at="2024-03-19T04:52:35Z" name="setUp" finished-at="2024-03-19T04:52:51Z" duration-ms="15823" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testScript.FirstClassTest@eadd4fb]" started-at="2024-03-19T12:05:06 IST" name="setUp" finished-at="2024-03-19T12:05:17 IST" duration-ms="10770" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="getCurrentURL()[pri:0, instance:testScript.FirstClassTest@6c0d7c83]" started-at="2024-03-19T04:52:51Z" name="getCurrentURL" finished-at="2024-03-19T04:52:51Z" duration-ms="24" status="PASS">
+        <test-method signature="getCurrentURL()[pri:0, instance:testScript.FirstClassTest@eadd4fb]" started-at="2024-03-19T12:05:17 IST" name="getCurrentURL" finished-at="2024-03-19T12:05:17 IST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getCurrentURL -->
-        <test-method signature="testFirstClass()[pri:0, instance:testScript.FirstClassTest@6c0d7c83]" started-at="2024-03-19T04:52:51Z" name="testFirstClass" finished-at="2024-03-19T04:52:51Z" duration-ms="17" status="PASS">
+        <test-method signature="testFirstClass()[pri:0, instance:testScript.FirstClassTest@eadd4fb]" started-at="2024-03-19T12:05:17 IST" name="testFirstClass" finished-at="2024-03-19T12:05:17 IST" duration-ms="26" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFirstClass -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testScript.FirstClassTest@6c0d7c83]" started-at="2024-03-19T04:52:51Z" name="closeBrowser" finished-at="2024-03-19T04:52:51Z" duration-ms="259" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testScript.FirstClassTest@eadd4fb]" started-at="2024-03-19T12:05:17 IST" name="closeBrowser" finished-at="2024-03-19T12:05:17 IST" duration-ms="200" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
