@@ -1,6 +1,7 @@
 package testScript;
 
-import org.testng.annotations.BeforeMethod;
+
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 import pageObject.FirstClass;
@@ -9,10 +10,10 @@ import testBase.BaseClass;
 public class FirstClassTest extends BaseClass {
 
 	public FirstClass fc;
-	@BeforeMethod
+	@BeforeTest
 	public void setUp()
 	{
-		initilization();
+		driver = initilization();
 		fc = new FirstClass(driver);
 	}
 	

@@ -5,7 +5,9 @@ import org.openqa.selenium.support.PageFactory;
 
 public class FirstClass {
 	
-	private WebDriver driver;
+	public WebDriver driver;
+	
+	
 	public FirstClass(WebDriver driver) {
 		this.driver=driver;
 		PageFactory.initElements(driver, this);

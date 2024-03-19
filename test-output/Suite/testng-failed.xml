@@ -5,6 +5,7 @@
     <classes>
       <class name="testScript.SecondClassTest">
         <methods>
+          <include name="closeBrowser"/>
           <include name="testSecondClass"/>
           <include name="setUp"/>
         </methods>
